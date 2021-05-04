@@ -6,7 +6,7 @@
 
 <p><img src ="screenshot.png"></img></p>
 <h3>Organisation du projet</h3>
-<p>Vous trouverez le sujet du projet dans le fichier projet.pdf, et le rapport des réalisations dans le fichier rapport.pdf</p>
+<p>Vous trouverez le sujet du projet dans le fichier projet.pdf, et le rapport des réalisations dans le fichier rapport.pdf.</p>
 
 <p>Vous avez tous les codes sources des classes dans le dossier src, les classes compilées dans le dossier bin. La documentation format web 
 dans le dossier doc.</p>
