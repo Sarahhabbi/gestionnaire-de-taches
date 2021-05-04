@@ -1,6 +1,6 @@
-<h2>Gestionnaire de tâches administratives au sein d’un gymnase</h2>
+<h2>Gestionnaire de tâches</h2>
 
-<p>Un projet universitaire en Java, réalisé au semestre 1 de la deuxième année de licence informatique à <a href = "https://sciences.sorbonne-universite.fr">Sorbonne Université</a>, avec <a href = "https://fr.linkedin.com/in/sarah-habbi-1a2ba81a4">Sarah Habbi</a>.</p>
+<p>C'est une application Java consistant en un gestionnaire de tâches administratives au sein d’un gymnase, un projet universitaire réalisé avec <a href = "https://fr.linkedin.com/in/sarah-habbi-1a2ba81a4">Sarah Habbi</a> au premier semestre de la deuxième année de licence informatique à <a href = "https://sciences.sorbonne-universite.fr">Sorbonne Université</a>, .</p>
 
 <h3>Fonctionnalitées</h3>
 
