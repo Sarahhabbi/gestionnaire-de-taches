@@ -4,7 +4,7 @@
 
 <h2 align="center">Fonctionnalitées</h2>
 
-<p><img src ="img.png"></img></p>
+<p><img src ="screenshot.png"></img></p>
 <h2 align="center">Organisation du projet</h2>
 <p>Vous trouverez le sujet du projet dans le fichier projet.pdf, et le rapport de réalisations dans le fichier rapport.pdf</p>
 
